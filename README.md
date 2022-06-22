@@ -6,6 +6,6 @@ Replicando efeito da matrix do filme, utilizando o canvas para fazer a geração
 
 ## PREVISUALIZAÇÃO
 
-https://user-images.githubusercontent.com/51803873/175034767-1cd35008-a1be-4dc4-a644-061b0565bcfc.png
+![image](https://user-images.githubusercontent.com/51803873/175035279-6cf4250d-5f1b-4139-8d46-122b93596bd7.png)
 
 
